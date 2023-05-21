@@ -4,14 +4,14 @@ App desenvolvido para de uma forma clara e bem objetiva demonstrar as equipes de
 # SEGUINDO VERIFICAÇÕES
 Em sua tela inicial existem abas onde o usuário consegue de forma simples  e objetiva compreender cada uma de sua funcionalidade, seguindo o critério de necessidade para o mesmo durante a sua pesquisa, segue abaixo os campos em que o usuário encontrará em sua tela inicial,  campos como:
 
-## METAS
-## VALORES
-## LAUDOS
-## CÓDIGOS
-## MATERIAIS
-## SHAREPOINT
-## HODOMETRO
-## SUPERVISÃO
+# METAS
+# VALORES
+# LAUDOS
+# CÓDIGOS
+# MATERIAIS
+# SHAREPOINT
+# HODOMETRO
+# SUPERVISÃO
 
 # Compreendendo os campos.
 
