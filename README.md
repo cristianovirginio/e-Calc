@@ -4,14 +4,14 @@ App desenvolvido para de uma forma clara e bem objetiva demonstrar as equipes de
 # SEGUINDO VERIFICAÇÕES
 Em sua tela inicial existem abas onde o usuário consegue de forma simples  e objetiva compreender cada uma de sua funcionalidade, seguindo o critério de necessidade para o mesmo durante a sua pesquisa, segue abaixo os campos em que o usuário encontrará em sua tela inicial,  campos como:
 
-## METAS
-## VALORES
-## LAUDOS
-## CÓDIGOS
-## MATERIAIS
-## SHAREPOINT
-## HODOMETRO
-## SUPERVISÃO
+# METAS
+# VALORES
+# LAUDOS
+# CÓDIGOS
+# MATERIAIS
+# SHAREPOINT
+# HODOMETRO
+# SUPERVISÃO
 
 # Compreendendo os campos.
 
@@ -21,10 +21,3 @@ Campo destinado para que o suário consiga acompanhar seus avanços seja na part
 ## VALORES
 
 Campo destinado para que o usuário possa somar os seus resultados obtidos diariamente, com a soma de cada serviços em campos já definidos onde o usuário necessita apenas digitar a quantidade executada, e receberá a resposta em valores já devidamente calculados e informando quanto aida falta para obter a meta diária. 
-
-## VALORES
-
-Campo destinado para que o usuário possa somar os seus resultados obtidos diariamente, com a soma de cada serviços em campos já definidos onde o usuário necessita apenas digitar a quantidade executada, e receberá a resposta em valores já devidamente calculados e informando quanto aida falta para obter a meta diária.
-
-## LAUDOS
-Campo destinado para que o usuário possa pesquisar a validade e os laudos de seus EPI'S em caso de uma fiscalização junto ao agente fiscalizador ou até mesmo acompanhar a validade de seu teste dielétrico durante sua jornada de trabalho.
