@@ -20,4 +20,4 @@ Campo destinado para que o suário consiga acompanhar seus avanços seja na part
 
 ## VALORES
 
-Campo destinado para que o usuário possa somar os seus resultados obtidos diariamente, com a soma de cada serviços em campos já definidos onde o mesmo necessita apenas digitar a quantidade executada e receberá a resposta em valores já devidamente calculados e informando quanto aida falta para a meta diária.
+Campo destinado para que o usuário possa somar os seus resultados obtidos diariamente, com a soma de cada serviços em campos já definidos onde o usuário necessita apenas digitar a quantidade executada, e receberá a resposta em valores já devidamente calculados e informando quanto aida falta para obter a meta diária.
