@@ -20,4 +20,11 @@ Campo destinado para que o suário consiga acompanhar seus avanços seja na part
 
 ## VALORES
 
+Campo destinado para que o usuário possa somar os seus resultados obtidos diariamente, com a soma de cada serviços em campos já definidos onde o usuário necessita apenas digitar a quantidade executada, e receberá a resposta em valores já devidamente calculados e informando quanto aida falta para obter a meta diária. 
+
+## VALORES
+
 Campo destinado para que o usuário possa somar os seus resultados obtidos diariamente, com a soma de cada serviços em campos já definidos onde o usuário necessita apenas digitar a quantidade executada, e receberá a resposta em valores já devidamente calculados e informando quanto aida falta para obter a meta diária.
+
+## LAUDOS
+Campo destinado para que o usuário possa pesquisar a validade e os laudos de seus EPI'S em caso de uma fiscalização junto ao agente fiscalizador ou até mesmo acompanhar a validade de seu teste dielétrico durante sua jornada de trabalho.
